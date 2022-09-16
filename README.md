@@ -1,5 +1,24 @@
-## <marquee width="60%" direction="right" height="100px">Wellcome To My Github Profile </marquee> 
+import sys
+import time
 
+def loading(text):
+    num = 0
+    while num < 1:
+        for i,char in enumerate(text):
+            if i == 0:
+                print "\r\033[91m%s\033[0m%s" %(char.upper(),text[1:]),
+                sys.stdout.flush()
+            elif i == 1:
+                old_text = text[0].lower()
+                print "\r%s\033[91m%s\033[0m%s" %(old_text,char.upper(),text[2:]),
+                sys.stdout.flush()
+            elif i == i:
+                old_text = text[-0:i].lower()
+                print "\r%s\033[91m%s\033[0m%s" %(old_text,char.upper(),text[i+1:]),
+                sys.stdout.flush()
+            time.sleep(0.1)
+        num += 1
+loading("your text here")
 
 ## Hi <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="30px" width="30px"> , I'm **Mir Md Mosarof Hossan Showrav**
 <p>
