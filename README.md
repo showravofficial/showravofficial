@@ -1,4 +1,4 @@
-## Hi, I'm Mir Md Mosarof Hossan Showrav <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="35px" width="35px">
+## Hi <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="30px" width="30px"> , I'm **Mir Md Mosarof Hossan Showrav**
 <p>
 👑 I am Android Developer <br> 
 🖊️ Love to write code <br> 
