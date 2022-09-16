@@ -1,6 +1,4 @@
-<marquee width="60%" direction="right" height="100px">
-Wellcome To My Github Profile
-</marquee> 
+## <marquee width="60%" direction="right" height="100px">Wellcome To My Github Profile </marquee> 
 
 
 ## Hi <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="30px" width="30px"> , I'm **Mir Md Mosarof Hossan Showrav**
