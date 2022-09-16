@@ -1,6 +1,7 @@
 ## Hi <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="30px" width="30px"> , I'm **Mir Md Mosarof Hossan Showrav**
 <p>
-👑 I am Android Developer <br> 
+- 🔭 I’m currently working on **Android Development**
+👑 I am Programmer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
