@@ -1,6 +1,6 @@
 ## Hi, I'm Mir Md Mosarof Hossan Showrav 👋
 <p>
-👑 I am Web Developer <br> 
+👑 I am Android Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
