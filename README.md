@@ -1,6 +1,3 @@
-const code = "alert('Hello World'); let x = 100";
-setTimeout(code, 1);
-
 ## Hi <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="30px" width="30px"> , I'm **Mir Md Mosarof Hossan Showrav**
 <p>
   
