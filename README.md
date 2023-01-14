@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="30px" width="30px"> , I'm **Mir Md Mosarof Hossan Showrav**
+## Hi <img src="https://github.com/the-mir/the-mir/blob/main/Wave.gif" height="30px" width="30px"> , I'm **Mir Md. Mosarof Hossan Showrav**
 <p>
   
 🟢 I’m currently working on Android Development <br>
