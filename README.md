@@ -9,7 +9,7 @@
 ![Profile views](https://gpvc.arturio.dev/the-mir) 
 
 ## <img src="https://github.com/the-mir/the-mir/blob/main/profile.png" height="30px" width="30px">  **About Me**
-I’m a Android developer who is passionate about making error-free Android application with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Flutter but some technologies I enjoy working with include Python, JavaScript as well as PHP. 
+I’m a Android developer who is passionate about making error-free Android application with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Flutter but some time I enjoy working with include Python, JavaScript as well as PHP. 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Python <br> 
