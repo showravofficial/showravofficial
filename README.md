@@ -9,7 +9,7 @@
 ![Profile views](https://gpvc.arturio.dev/the-mir) 
 
 ## <img src="https://github.com/the-mir/the-mir/blob/main/profile.png" height="30px" width="30px">  **About Me**
-I’m a Android developer who is passionate about making error-free Android application. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Flutter but some time I enjoy working with include Python, JavaScript as well as PHP. 
+As a computer science student, I am passionate about using technology to solve complex problems and improve people's lives. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am well-versed in programming languages such as C, C++, Java, Python, Dart and PHP , and have experience working on projects related to software development, machine learning, and data analysis. I am eager to apply my skills and knowledge to a career as a software engineer and make a positive impact on the industry.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Python <br> 
